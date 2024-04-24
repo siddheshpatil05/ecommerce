@@ -15,7 +15,7 @@ $dbname = 'ecommerceweb';
 $dbuser = 'root';
 
 // Database Password
-$dbpass = '';
+$dbpass = 'root123';
 
 // Defining base url
 define("BASE_URL", "");
